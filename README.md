@@ -1,3 +1,10 @@
+# ⚠️ Archived repository
+
+This repository was moved to / Dieses Repository befindet sich nun unter:
+
+🔗 https://git.kraut.space/Krautspace/hackspace-status-dokuwiki-plugin
+
+
 # whoisinyourhackspace Plugin for DokuWiki
 
 This plugin uses the [SpaceAPI](http://spaceapi.net/) of your hackerspace to display the current room state.
